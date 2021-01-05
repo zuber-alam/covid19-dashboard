@@ -24,7 +24,7 @@
     "react": "^0.14.9 || ^15.3.0 || ^16.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "datamaps": "^0.4.2",
     "prop-types": "^15.5.10",
     "react-axios": "^2.0.3",
